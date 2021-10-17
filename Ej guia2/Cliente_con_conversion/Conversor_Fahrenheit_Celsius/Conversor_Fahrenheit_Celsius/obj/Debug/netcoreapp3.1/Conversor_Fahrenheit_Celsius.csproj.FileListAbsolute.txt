@@ -1,0 +1,16 @@
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.csproj.AssemblyReference.cache
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.Conversor.resources
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.csproj.GenerateResource.cache
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.AssemblyInfoInputs.cache
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.AssemblyInfo.cs
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.csproj.CoreCompileInputs.cache
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\bin\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.exe
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\bin\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.deps.json
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\bin\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.runtimeconfig.json
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\bin\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.runtimeconfig.dev.json
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\bin\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.dll
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\bin\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.pdb
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.dll
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.pdb
+C:\Users\GENIS\Desktop\Ej guia2\Cliente_con_conversion\Conversor_Fahrenheit_Celsius\Conversor_Fahrenheit_Celsius\obj\Debug\netcoreapp3.1\Conversor_Fahrenheit_Celsius.genruntimeconfig.cache
